@@ -5,6 +5,7 @@ pytest-cov
 pandas
 nbval
 click
+seaborn
 flask
 requests
 plotly
